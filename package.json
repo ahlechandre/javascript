@@ -1,0 +1,25 @@
+{
+  "name": "ahlechandre-style",
+  "version": "0.1.0",
+  "description": "An approach to JavaScript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahlechandre/javascript.git"
+  },
+  "keywords": [
+    "style guide",
+    "ahlechandre",
+    "javascript",
+    "lint",
+    "bundle"
+  ],
+  "author": "Alexandre Thebaldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahlechandre/javascript/issues"
+  },
+  "homepage": "https://github.com/ahlechandre/javascript#readme"
+}
