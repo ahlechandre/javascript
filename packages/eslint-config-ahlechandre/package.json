@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-ahlechandre",
-  "version": "0.1.0",
-  "description": "An eslint config",
+  "version": "1.0.0",
+  "description": "A shareable eslint config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,7 @@
   "author": "Alexandre Thebaldi",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb-base": "^9.0.0"
+    "eslint-config-airbnb-base": "^9.0.0"    
   },
   "peerDependencies": {
     "eslint": "^3.9.1",

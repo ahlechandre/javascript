@@ -1,13 +1,19 @@
 # eslint-config-ahlechandre
 
-A eslint config based on Airbnb's base JS.
+A shareable eslint config (based on `airbnb-base`).
 
-# Usage
-
-* Install the packages
+## Install
 
 ```bash
-  npm install --save-dev eslint eslint-plugin-import eslint-config-ahlechandre
+npm install --save-dev eslint eslint-plugin-import eslint-config-ahlechandre
 ```
 
-* Add `"extends": "ahlechandre"` to your .eslintrc
+## Usage
+
+* Add the config to your `.eslintrc`
+
+```json
+{
+  "extends": "ahlechandre"
+}
+```

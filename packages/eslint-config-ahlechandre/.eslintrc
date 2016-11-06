@@ -1,6 +1,5 @@
 {
     "extends": [
-        "airbnb-base",
         "./index.js"
     ]
 }
