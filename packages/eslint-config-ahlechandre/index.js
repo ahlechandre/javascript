@@ -1,5 +1,5 @@
 const extExternal = [
-  './node_modules/eslint-config-airbnb-base'
+  '../eslint-config-airbnb-base'
 ].map(require.resolve)
 
 const extInternal = [
